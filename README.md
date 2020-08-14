@@ -20,6 +20,7 @@ In this competition, a multiple product review sentiment classification model ne
 <img width="500" alt="image" src=https://user-images.githubusercontent.com/48685014/90114315-220eb700-dd85-11ea-9cc4-d93df9f97b71.png>
 
 ### Our Approach
+[Approach](https://github.com/Teo-KJ/Shopee-Code-League-The_OG-/blob/master/Sentiment%20Analysis%20Approach.md)
 
 ----------------------------------
 
