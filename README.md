@@ -48,3 +48,4 @@ Based on the data provided, you must predict whether each user will open an emai
 <img width="500" alt="image" src=https://user-images.githubusercontent.com/48685014/90115307-79615700-dd86-11ea-8757-a04cc910bc50.png>
 
 ### Our Approach
+[Article on Medium](https://medium.com/@teokj10/simple-prediction-on-a-data-frame-with-categorical-and-numerical-variables-8a7637104ee2?sk=854b695ba5a0064f687a4383c4841f22)
